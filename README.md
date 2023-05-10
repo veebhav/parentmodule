@@ -1,3 +1,3 @@
 # parentmodule
 Parent
-Wohoooo
+Wo
